@@ -18,13 +18,16 @@ A dictionary for Free and Open Source software
 # <a name="B">B</a>
 # <a name="C">C</a>
 
-***<a name="Copyright">Copyleft</a>*** is a legal construct ... .
+***<a name="Copyright">Copyright</a>*** is a legal construct ... .
 
-***<a name="Copyleft">Copyleft</a>*** is a license implementing the four freedoms as specified in the Free Software .... Examples of copyleft licenses are [GPL](#GPL). See also [Copyright](#Copyright)
+***<a name="Copyleft">Copyleft</a>*** is a [License](#license) implementing the four freedoms as specified in the Free Software .... Examples of copyleft licenses are [GPL](#GPL). See also [Copyright](#Copyright)
 
 # <a name="F">F</a>
 ***<a name="Four_freedoms">Four Freeedoms</a>*** are ....
 
 # <a name="G">G</a>
-***<a name="GPL">GPL</a>*** is a [Copyleft](#Copyleft)
+***<a name="GPL">GPL</a>*** is a [Copyleft](#Copyleft) license.
+
+# <a name="L">L</a>
+***<a name="License">License</a>*** is a legal construct license.
 
