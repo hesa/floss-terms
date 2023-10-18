@@ -26,8 +26,8 @@ A dictionary for Free and Open Source software
 ***<a name="Four_freedoms">Four Freeedoms</a>*** are ....
 
 # <a name="G">G</a>
-***<a name="GPL">GPL</a>*** is a [Copyleft](#Copyleft) license.
+***<a name="GPL">GPL</a>*** is a [Copyleft](#Copyleft) [License](#license).
 
 # <a name="L">L</a>
-***<a name="License">License</a>*** is a legal construct license.
+***<a name="License">License</a>*** is a legal construct....
 
