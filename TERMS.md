@@ -13,7 +13,7 @@ A dictionary of Free and Open Source software terms
 
 ***<a name="Copyleft">Copyleft</a>*** is a legal construct to grant
    freedoms, as in [Free Software](#Free_Software), and requiring all
-   derivative work to preserve the same freedoms. Copylft is
+   derivative work to preserve the same freedoms. Copyleft is
    implemented in [Licenses](#License), e.g. the [GPL](#GPL). See also
    [Copyright](#Copyright)
 
