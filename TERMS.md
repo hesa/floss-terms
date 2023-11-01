@@ -6,6 +6,7 @@ A dictionary of Free and Open Source software terms
 [D](#D)
 [F](#F)
 [L](#L)
+[W](#W)
 
 # <a name="C">C</a>
 
@@ -34,4 +35,13 @@ A dictionary of Free and Open Source software terms
 
 ***<a name="License">License</a>*** 
 
+# <a name="W">W</a>
+
+***<a name="Weak_Copyleft">Weak_Copyleft</a>*** is a variant of
+   [Copyleft](#Copyleft) allowing a software to link against a weakly
+   copylefted work, typically a library, without requiring the
+   software itself to be distributed under a Weak Copyleft
+   license. However the library would remain under the initial Weak
+   Copyleft license. See also [Copyright](#Copyright),
+   [Copyleft](#Copyleft) amd [Strong Copyleft](#Strong_Copyleft).
 
