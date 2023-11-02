@@ -6,6 +6,7 @@ A dictionary of Free and Open Source software terms
 [D](#D)
 [F](#F)
 [L](#L)
+[S](#S)
 [W](#W)
 
 # <a name="C">C</a>
@@ -35,6 +36,16 @@ A dictionary of Free and Open Source software terms
 
 ***<a name="License">License</a>*** 
 
+# <a name="S">S</a>
+
+***<a name="Strong_Copyleft">Strong_Copyleft</a>*** is a variant of
+   [Copyleft](#Copyleft) requiring a software linking against a Strong
+   Copyleft work, typically a library, to be distributed under the
+   same Strong Copyleft license. However the library would remain
+   under the initial Weak Copyleft license. Examples of a Strong
+   Copyleft license is [GPL](#GPL). See also [Copyright](#Copyright),
+   [Copyleft](#Copyleft) and [Weak Copyleft](#Weak_Copyleft).
+
 # <a name="W">W</a>
 
 ***<a name="Weak_Copyleft">Weak_Copyleft</a>*** is a variant of
@@ -42,6 +53,7 @@ A dictionary of Free and Open Source software terms
    copylefted work, typically a library, without requiring the
    software itself to be distributed under a Weak Copyleft
    license. However the library would remain under the initial Weak
-   Copyleft license. See also [Copyright](#Copyright),
-   [Copyleft](#Copyleft) amd [Strong Copyleft](#Strong_Copyleft).
+   Copyleft license. Examples of a Weak Copyleft license is
+   [LGPL](#LGPL). See also [Copyright](#Copyright),
+   [Copyleft](#Copyleft) and [Strong Copyleft](#Strong_Copyleft).
 
