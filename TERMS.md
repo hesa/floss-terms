@@ -14,16 +14,15 @@ A dictionary of Free and Open Source software terms
 
 ***<a name="Copyright">Copyright</a>*** 
 
-***<a name="Copyleft">Copyleft</a>*** is a legal construct to grant
-   freedoms, as defined in [Free Software](#Free_Software), and
-   requiring all derivative work to preserve the same
-   freedoms. Copyleft is usually divided in to [Weak
+***<a name="Copyleft">Copyleft</a>*** is a method to make a program
+   free, as in [Free Software](#Free_Software), and requiring all
+   derivative work to be free. Copyleft is usually divided in to [Weak
    Copyleft](#Weak_Copyleft) and [Strong
    Copyleft](#Strong_Copyleft). Copyleft is implemented using a [Free
    Software](#Free_Software) [Licenses](#License), e.g. the
    [GPL](#GPL) family. See also [Copyright](#Copyright)
 
-***<a name="Copyright">Copyright</a>*** 
+***<a name="Copyright">Copyright</a>*** is a legal construct to grant
 
 # <a name="D">D</a>
 
