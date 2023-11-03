@@ -5,6 +5,7 @@ A dictionary of Free and Open Source software terms
 [C](#C)
 [D](#D)
 [F](#F)
+[G](#G)
 [L](#L)
 [S](#S)
 [W](#W)
@@ -32,9 +33,15 @@ A dictionary of Free and Open Source software terms
 
 ***<a name="Free_Software">Free Software</a>*** 
 
+# <a name="G">G</a>
+
+***<a name="GPL">GPL</a>*** 
+
 # <a name="L">L</a>
 
 ***<a name="License">License</a>*** 
+
+***<a name="LGPL">LGPL</a>*** 
 
 # <a name="S">S</a>
 
