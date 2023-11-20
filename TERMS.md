@@ -18,7 +18,7 @@ A dictionary of Free and Open Source software terms
    free, as in [Free Software](#Free_Software), and requiring all
    derivative work to be free. Copyleft is usually divided in to [Weak
    Copyleft](#Weak_Copyleft) and [Strong
-   Copyleft](#Strong_Copyleft). Copyleft is implemented using a [Free
+   Copyleft](#Strong_Copyleft). Copyleft is implemented using [Free
    Software](#Free_Software) [Licenses](#License), e.g. the
    [GPL](#GPL) family. See also [Copyright](#Copyright)
 
