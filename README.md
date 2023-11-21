@@ -1,6 +1,6 @@
 # floss-terms
 
-A Free and Open Source software [dictionary](blob/main/TERMS.md).
+A Free and Open Source software [dictionary](TERMS.md).
 
 # Contribute
 
