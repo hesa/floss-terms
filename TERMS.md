@@ -12,8 +12,6 @@ A dictionary of Free and Open Source software terms
 
 # <a name="C">C</a>
 
-***<a name="Copyright">Copyright</a>*** 
-
 ***<a name="Copyleft">Copyleft</a>*** is a method to make a program
    free, as in [Free Software](#Free_Software), and requiring all
    derivative work to be free. Copyleft is usually divided in to [Weak
@@ -44,7 +42,7 @@ A dictionary of Free and Open Source software terms
 
 # <a name="S">S</a>
 
-***<a name="Strong_Copyleft">Strong_Copyleft</a>*** is a variant of
+***<a name="Strong_Copyleft">Strong Copyleft</a>*** is a variant of
    [Copyleft](#Copyleft) requiring a software linking against a Strong
    Copyleft work, typically a library, to be distributed under the
    same Strong Copyleft license. [GPL](#GPL) is an example of a Strong
@@ -53,7 +51,7 @@ A dictionary of Free and Open Source software terms
 
 # <a name="W">W</a>
 
-***<a name="Weak_Copyleft">Weak_Copyleft</a>*** is a variant of
+***<a name="Weak_Copyleft">Weak Copyleft</a>*** is a variant of
    [Copyleft](#Copyleft) allowing a software to link against a weakly
    copylefted work, typically a library, without requiring the
    software itself to be distributed under a Weak Copyleft
