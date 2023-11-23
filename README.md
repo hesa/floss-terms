@@ -1,6 +1,6 @@
 # floss-terms
 
-A dictionary for Free and Open Source software
+A Free and Open Source software [dictionary](TERMS.md).
 
 # Contribute
 
@@ -12,5 +12,4 @@ You are more than welcome to contribute to our project:
 
 By creating a pull request you approve of contributing your material under the license of this project (as indicated in the `LICENSE` file). The copyright will remain yours, of course.
 
-A [https://github.com/hesa/floss-terms/blob/main/TERMS.md](dictionary) for Free and Open Source software.
 
