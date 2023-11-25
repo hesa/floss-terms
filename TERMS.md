@@ -20,11 +20,17 @@ A dictionary of Free and Open Source software terms
    Software](#Free_Software) [Licenses](#License), e.g. the
    [GPL](#GPL) family. See also [Copyright](#Copyright)
 
-***<a name="Copyright">Copyright</a>*** is a legal construct to grant
+***<a name="Copyright">Copyright</a>*** is a legal construct to grant the creator of a work exclusive rights to the work.
+
+***<a name="Cumulative_license">Cumulative license</a>*** refers to
+when a software is released under more than one license, e.g. `Apache-2.0 AND LGPL-2.1-only`, and all the
+licenses must be adhered to. This situation often is the result of combining many software comonents rather than chosing to license a software under a cumulative license. See also [Dual license](#Dual_license).
 
 # <a name="D">D</a>
 
 ***<a name="Derviate_work">Derivative work</a>*** 
+
+***<a name="Dual_license">Dual license</a>***is the practice of releasing software under more than one [license](#License), e.g. `Apache-2.0 OR LGPL-2.1-only`, where the user can choose any of the licenses. See also [Cumulative license](#Cumulative_license).
 
 # <a name="F">F</a>
 
