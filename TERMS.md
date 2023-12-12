@@ -28,9 +28,9 @@ licenses must be adhered to. This situation often is the result of combining man
 
 # <a name="D">D</a>
 
-***<a name="Derviate_work">Derivative work</a>*** 
+***<a name="Derviative_work">Derivative work</a>*** 
 
-***<a name="Dual_license">Dual license</a>*** is the practice of releasing software under more than one [license](#License), e.g. `Apache-2.0 OR LGPL-2.1-only`, where the user can choose any of the licenses. See also [Cumulative license](#Cumulative_license).
+***<a name="Dual_license">Dual license</a>*** is the practice of releasing software under more than one [license](#License), e.g. `Apache-2.0 OR LGPL-2.1-only`, where the user only need to adhere to one of the licenses. See also [Cumulative license](#Cumulative_license).
 
 # <a name="F">F</a>
 
